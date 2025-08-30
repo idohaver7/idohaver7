@@ -14,8 +14,8 @@ A full-stack application inspired by Netflix, leveraging:
 Explore my project to see streaming UI, authentication, database integration, and responsive design in action!
 
 ## 🛠️ Skills
-- **Languages:** Java, C++, Python, C, HTML, CSS, JavaScript
-- **Frameworks/Tools:** React, Node.js, Android Studio, MongoDB
+- **Languages:** Java, C++, Python, C, HTML, CSS, JavaScript , Bash
+- **Frameworks/Tools:** React, Node.js, Android Studio, MongoDB , Git , Linux
 - **Core Competencies:** Algorithms, Data Structures, Full-Stack Development, Team Player
 
 ---
