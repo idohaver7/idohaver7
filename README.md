@@ -2,7 +2,7 @@
 
 👨‍💻 **Junior Software Developer**
 
-Passionate last year computer science student with hands-on experience in full-stack development and a strong foundation in algorithms and data structures. Highly motivated, fast learner, and eager to take on new challenges. Proactive team player with strong problem-solving skills and a constant drive for improvement.
+Passionate third year computer science student with hands-on experience in full-stack development and a strong foundation in algorithms and data structures. Highly motivated, fast learner, and eager to take on new challenges. Proactive team player with strong problem-solving skills and a constant drive for improvement.
 
 ## 🚀 Featured Project
 **Netflix Clone**  
